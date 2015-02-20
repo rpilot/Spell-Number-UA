@@ -7,4 +7,4 @@ Make sure to put .xla file to C:\Program Files (x86)\Microsoft Office\Office15\X
 Examples:
 * =SpellNumber(120)  result: one hundred twenty  dollars and 00 cents
 * =СумаПрописом(120) result: сто двадцять гривень 00 копiйок
-* ==СумаUSDПрописом(120) result: сто двадцять доларів 00 центів
+* =СумаUSDПрописом(120) result: сто двадцять доларів 00 центів
